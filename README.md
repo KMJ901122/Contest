@@ -6,7 +6,8 @@ The dataset you can handle are Covid19, Atelectasis, Cap, Pneumothorax, Normal.
 But you have to fill the folder corresponding the data with actual data image.
 This library achieved rank 1 in detecting Pneumothorax, rank 3 (average) in detecting Cardiomegaly and rank 5 in detecting Breast Cancer in the contest hosted by Ministry of Trade, Industry and Energy in South Korea.
 We got awarded Excellence Award (rank 3).
-You can find the detailed description with [the presentation file](<https://arxiv.org/abs/1810.00821>).
+You can find the detailed description with [the presentation file](./images/presentation.pdf).
+We are developing multi-classification model and soon upload.
 ![excution image](./images/contest_image.jpg)
 
 
@@ -15,7 +16,7 @@ You can find the detailed description with [the presentation file](<https://arxi
 You can also install using following command:
 
 ```bash
-$ git clone https://github.com/keiohta/tf2rl.git tf2rl
+$ git clone https://github.com/KMJ901122/Contest.git
 $ cd Contest
 $ pip install -r requirements.txt
 ```
@@ -77,6 +78,6 @@ MJ : know901122@gmail.com
   year = {2021},
   publisher = {GitHub},
   journal = {GitHub repository},
-  howpublished = {\url{https://github.com/keiohta/tf2rl/}}
+  howpublished = {\url{https://github.com/KMJ901122/Contest.git}}
 }
 ```
