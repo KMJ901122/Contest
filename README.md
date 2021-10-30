@@ -67,7 +67,7 @@ $ cd Contest\utils
 $ python create_csv.py pneu # pneu can be replaced with other dataset listed in config.DATASET
 ```
 ## 3. Contact
-Hyun-Woo, Lee : matalana@naver.com
+Hyun-Woo, Lee : lhwwoojoo@gmail.com
 
 MJ : know901122@gmail.com
 ## 4. Citation
