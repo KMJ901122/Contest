@@ -1,10 +1,15 @@
+[![MIT License](http://img.shields.io/badge/license-MIT-blue.svg?style=flat)](LICENSE)
+
 # Introduction
 This is a deep learning library for medical imaging by using [TensorFlow 2.x](https://www.tensorflow.org/).
 The dataset you can handle are Covid19, Atelectasis, Cap, Pneumothorax, Normal.
 But you have to fill the folder corresponding the data with actual data image.
 This library achieved rank 1 in detecting Pneumothorax, rank 3 (average) in detecting Cardiomegaly and rank 5 in detecting Breast Cancer in the contest hosted by Ministry of Trade, Industry and Energy in South Korea.
-We got awarded Excellence Award (rank 3)
-You can find the detailed description with the presentation file in the images folder.
+We got awarded Excellence Award (rank 3).
+You can find the detailed description with [the presentation file](<https://arxiv.org/abs/1810.00821>).
+![excution image](./images/contest_image.jpg)
+
+
 ## 1. Installation
 
 You can also install using following command:
