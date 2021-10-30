@@ -1,0 +1,9 @@
+# py -m pip install -r requirements.txt
+numpy>=1.17.3
+pandas>=1.1.5
+pydicom
+opencv-python
+tensorflow
+matplotlib
+pathlib
+sklearn
